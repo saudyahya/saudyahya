@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Senior .NET Developer** and **Project Manager / Resident Engineer at Saudi Energy (SE)**, specializing in enterprise-scale integration and mission-critical hardware/software ecosystems**.
+I am a **Senior .NET Developer** and **Project Manager / Resident Engineer at Saudi Energy (SE)**, specializing in enterprise-scale integration and mission-critical hardware/software ecosystems.
 
 - 🛠️ **Currently working on:** Enterprise API security and biometric hardware integration.
 - 🎓 **Education:** Bachelor in Information Technology and Computing (Web Development) - Arab Open University.
