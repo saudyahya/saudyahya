@@ -9,13 +9,13 @@ I am a **Senior .NET Developer** and **Project Manager / Resident Engineer at Sa
 
 - 🛠️ **Currently working on:** Enterprise API security and biometric hardware integration.
 - 🎓 **Education:** Bachelor in Information Technology and Computing (Web Development) - Arab Open University.
-- ⚡ **Specialties:** High-availability SQL Clusters, .NET Core, and Hardware & ERP Integration.
+- ⚡ **Specialties:** High-availability SQL Clusters, .NET Core, MAUI, and Hardware & ERP Integration.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C#, SQL
-- **Frameworks:** .NET Core, ASP.NET MVC, WPF, Entity Framework
-- **DevOps/DB:** Docker, IIS, SQL Server 2022, Git, Windows Server
-- **Integrations:** REST APIs, Biometric Devices, ERP Systems
+- **Frameworks:** .NET Core, .Net Framework, MAUI, ASP.NET MVC, WPF, Web Forms Entity Framework
+- **DevOps/DB:** Docker, k8s, IIS, SQL Server 2022, Git, Windows Server
+- **Integrations:** REST APIs, SOAP, Web Service, Biometric Devices, ERP Systems
 
 ### 📬 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saud-yahya/)
