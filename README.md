@@ -1,7 +1,7 @@
 # 🚀 Senior .NET Developer | API & System Integration Engineer
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saudyahya&show_icons=true&theme=tokyonight" alt="Saud's Stats" />
+  <img src="./profile/stats.svg" alt="Saud's Stats" />
 </p>
 
 ### 👨‍💻 About Me
