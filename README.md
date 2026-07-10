@@ -1,7 +1,8 @@
 # 🚀 Senior .NET Developer | API & System Integration Engineer
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="Saud's Stats" />
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/languages.svg" width="48%" />
 </p>
 
 ### 👨‍💻 About Me
