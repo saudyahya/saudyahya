@@ -14,9 +14,10 @@ I am a **Senior .NET Developer** and **Project Manager / Resident Engineer at Sa
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C#, SQL
-- **Frameworks:** .NET Core, .Net Framework, MAUI, ASP.NET MVC, WPF, Web Forms Entity Framework
+- **Frameworks:** .NET Core, .Net Framework, MAUI, ASP.NET MVC, WPF, Web Forms, Entity Framework
+- **Frontend:** Blazor, Bootstrap, HTML5, CSS3, Razor
 - **DevOps/DB:** Docker, k8s, IIS, SQL Server 2022, Git, Windows Server
-- **Integrations:** REST APIs, SOAP, Web Service, Biometric Devices, ERP Systems
+- **Integrations:** REST APIs, SOAP, Web Service, Biometric Devices, ERP Systems, Windows Services
 
 ### 📬 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saud-yahya/)
